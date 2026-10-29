@@ -3,6 +3,7 @@
 ## Overview
 
 This is a lightweight, single-purpose utility package that exports the uppercase letter **K**. 
+It is very very very very VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY  useful.
 
 It is part of the uppercase-letters project aiming to provide modular access to the English alphabet.
 
